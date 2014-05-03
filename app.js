@@ -1,5 +1,5 @@
 var http = require("http");
-var port = Number(process.env.PORT || 1337);
+var port = Number(process.env.PORT || 3000);
 var request = require("request");
 
 var fs = require('fs');
